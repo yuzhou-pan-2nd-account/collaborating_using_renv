@@ -396,6 +396,16 @@
       ],
       "Hash": "a745bda7aff4734c17294bb41d4e4607"
     },
+    "wesanderson": {
+      "Package": "wesanderson",
+      "Version": "0.3.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "f0d5ebcc72b5d6d2f338be8d80d39004"
+    },
     "xfun": {
       "Package": "xfun",
       "Version": "0.39",
